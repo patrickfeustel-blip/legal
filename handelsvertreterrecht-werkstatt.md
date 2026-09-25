@@ -77,7 +77,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO | HGB Paragraf 1 bis Paragraf 6 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Email Chat Beweise | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | E-Mail- und Chat-Beweise | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -107,7 +107,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 343 bis Paragraf 354: Handelsgeschäfte, Sorgfalt, Kontokorrent, Zinsen und Vergütung.
 - HGB Paragraf 373 bis Paragraf 376 und Paragraf 377: Annahmeverzug, Fixhandelskauf sowie Untersuchungs- und Rügeobliegenheit.
 - HGB Paragraf 383 ff., Paragraf 407 ff., Paragraf 453 ff. und Paragraf 467 ff.: Kommission, Fracht, Spedition und Lagergeschäft je nach Vertragstyp.
-- HGB Paragrafen 84–92c ab; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 485–494a ZPO — Selbständiges Beweisverfahren; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 286 ZPO — Freie Beweiswürdigung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 371 ZPO — Augenscheinsbeweis bei Dateien und digitalen Daten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -170,27 +169,27 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beweisthema, Gefahr des Beweisverlusts oder Zustimmung des Gegners, zuständiges Gericht und Antragsfassung nach Paragraf 485 ZPO bestimmen. Vorab prüfen, ob der Buchauszug nach Paragraf 87c Abs. 2 HGB oder die Bucheinsicht nach Paragraf 87c Abs. 4 HGB schneller und günstiger zum Ziel führt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Email Chat Beweise
+### 15.2. E-Mail- und Chat-Beweise
 
 Authentizität, Kontext, Screenshots, Export, Datenschutz, Geschäftsgeheimnisse und Anlagenlogik. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen
 
-Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach Paragraf 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach Paragraf 89a Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach Paragraf 89a HGB: wichtiger Grund, Abmahnungserfordernis, Kündigung binnen angemessener Überlegungsfrist ab Kenntnis des Kündigungsgrunds (die Zweiwochenfrist des Paragraf 626 Abs. 2 BGB gilt nicht entsprechend), Schadensersatz nach Paragraf 89a Abs. 2 HGB und Folgen für den Ausgleich nach Paragraf 89b Abs. 3 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Status, Bezirk oder Kundenkreis, Provisionssätze, Abrechnung, Delkredere, Kündigungsfristen, Ausgleich und Wettbewerbsverbot gegen die zwingenden Regeln der Paragrafen 84 bis 92c HGB prüfen; daraus Verhandlungsziel, Vergleichskorridor und Eskalationspfad entwickeln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Schriftform und Aushändigung der unterzeichneten Urkunde, Höchstdauer von zwei Jahren ab Vertragsende, Beschränkung auf Bezirk oder Kundenkreis und vertragsgegenständliche Produkte, Höhe der angemessenen Entschädigung und Berechnungsgrundlage prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Kündigungsfristen 89
+### 15.6. Kündigungsfristen nach Paragraf 89 HGB
 
-Vertragsdauer, gesetzliche Mindestfristen, Gleichlauf, Zugang, Form und Fristenkalender. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertragsdauer, gesetzliche Mindestfristen nach Paragraf 89 Abs. 1 HGB, Gleichlauf nach Paragraf 89 Abs. 2 HGB, Zugang, Form und Fristenkalender. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Nachvertragliche Provision
 
@@ -198,28 +197,28 @@ Voranbahnung, Auftragseingang, angemessene Frist, Nachfolgerkonflikt und Abrechn
 
 ### 15.8. Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
 
-Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach Paragraf 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach Paragraf 87 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach Paragraf 87 Abs. 3 HGB: überwiegende Vermittlung durch den ausgeschiedenen Handelsvertreter und Abschluss innerhalb angemessener Frist oder Angebotseingang vor Vertragsende, sowie Teilung mit dem Nachfolger nach Paragraf 87 Abs. 3 Satz 2 HGB, wenn das der Billigkeit entspricht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Provisionsanspruch nach Paragraf 87 HGB — Entstehung, Fälligkeit und Durchsetzung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entstehung nach Paragraf 87 Abs. 1 und Abs. 2 HGB, unbedingter Anspruch mit Ausführung des Geschäfts nach Paragraf 87a Abs. 1 HGB, Fortbestand bei vom Unternehmer zu vertretender Nichtausführung nach Paragraf 87a Abs. 3 HGB, Abrechnung nach Paragraf 87c Abs. 1 HGB und Verjährung prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Provisionsklage nach Paragrafen 87 ff. HGB — Klageschrift, Beweise und Strategie
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Stufenklage nach Paragraf 254 ZPO mit Buchauszug, hilfsweise Bucheinsicht nach Paragraf 87c Abs. 4 HGB, und bezifferter Zahlung; Darlegungslast für vermittelte Geschäfte, Beweismittel aus Korrespondenz und CRM, Verjährung nach Paragrafen 195 und 199 BGB und Hemmung durch Klageerhebung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Neukunden und wesentlich erweiterte Altkunden aus CRM- und Umsatzdaten belegen, Unternehmervorteile und Billigkeit nach Paragraf 89b Abs. 1 HGB ermitteln, die Höchstgrenze einer durchschnittlichen Jahresprovision der letzten fünf Jahre nach Paragraf 89b Abs. 2 HGB berechnen, Ausschlussgründe nach Paragraf 89b Abs. 3 HGB prüfen und die Jahresfrist zur Geltendmachung nach Paragraf 89b Abs. 4 Satz 2 HGB sichern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Rechtsabteilung: Nachvertragliches Wettbewerbsverbot Paragraf 90a HGB
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Unternehmersicht: Verzicht bis Vertragsende mit Wirkung nach sechs Monaten nach Paragraf 90a Abs. 2 HGB, Lossagung binnen eines Monats nach Kündigung aus wichtigem Grund nach Paragraf 90a Abs. 3 HGB, Durchsetzung per Unterlassungsklage und einstweiliger Verfügung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Statuscheck Handelsvertreter nach Paragraf 84 HGB
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Selbständigkeit nach Paragraf 84 Abs. 1 Satz 2 HGB (im Wesentlichen freie Gestaltung von Tätigkeit und Arbeitszeit), ständige Betrauung, Vermittlung oder Abschluss im fremden Namen; Abgrenzung zum Angestellten nach Paragraf 84 Abs. 2 HGB, zum Makler und zum Vertragshändler anhand der tatsächlichen Durchführung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Der Vertragshändler handelt im eigenen Namen und auf eigene Rechnung. Ein Ausgleich analog Paragraf 89b HGB setzt voraus, dass er wie ein Handelsvertreter in die Absatzorganisation des Herstellers eingegliedert ist und vertraglich verpflichtet ist, bei Vertragsende seinen Kundenstamm zu überlassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

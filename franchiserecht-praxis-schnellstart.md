@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen zivilrechtlichen Anspruch, Vertrag, AGB-Klausel oder Verbraucherfall sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
+Wenn du das hier öffnest, willst du einen Franchisefall zu Aufklärung, Vertrag, Gebühren, Gebietsschutz, Kündigung oder Wettbewerbsverbot sofort nach Anspruchsgrundlage, Einwendung, Beweislast und Arbeitsprodukt ordnen.
 
 # Franchiserecht Praxis — Schnellstart
 
@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
 4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
 5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
-6. Franchiserecht: Franchisevertrag AGB-Redline: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
+6. Franchise-Sonderfragen: vorvertragliche Aufklärung, Handbuch und Know-how, Gebühren, Gebietsschutz, Kartellrecht nach Art. 101 AEUV und Vertikal-GVO, nachvertragliches Wettbewerbsverbot und Abwicklung gesondert prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Franchiserecht: Franchisevertrag AGB-Redline | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Mystery Shopping Beweis und Datenschutz | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchise Kündigung und Nachvertragliche Wettbewerb | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchise Vergütungsmodelle Initial Laufend | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchise Vertragsstruktur Master Unit | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchise Vorvertragliche Aufklärung BGH | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Franchisevertrag AGB-Redline | Verwenderrolle, Einbeziehung, Transparenz und Inhaltskontrolle nach Paragrafen 305 bis 310 BGB je Klausel prüfen; kartellrechtlich kritische Klauseln gesondert markieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Mystery Shopping Beweis und Datenschutz | Vertragliche Kontrollbefugnis, Beweiswert der Testprotokolle, Rechtsgrundlage nach Art. 6 DSGVO und Information der Mitarbeiter des Franchisenehmers trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Kündigung und nachvertragliches Wettbewerbsverbot | Ordentliche Kündigung oder Kündigung aus wichtigem Grund nach Paragraf 314 BGB mit Abmahnung und angemessener Frist ab Kenntnis prüfen, danach Reichweite des Wettbewerbsverbots nach Art. 5 Abs. 3 Vertikal-GVO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Vergütungsmodelle, Eintritts- und laufende Gebühren | Eintrittsgebühr, laufende Gebühren und Werbeumlage auf Transparenz, Gegenleistung, Anpassungsvorbehalte und Rückforderung bei unwirksamer Klausel prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Vertragsstruktur Master- und Unit-Franchise | Rechte- und Pflichtenkette zwischen Franchisegeber, Master- und Unit-Franchisenehmer, Gebietsrechte und Folgen einer Beendigung auf Masterebene ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose | Rentabilitäts- und Standortangaben vor Vertragsschluss, ihre Richtigkeit und Kausalität für den Vertragsschluss nach Paragraf 311 Abs. 2 und Paragraf 241 Abs. 2 BGB mit Beleg prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,8 +56,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 90a nur als Orientierung für nachvertragliche Wettbewerbsverbote, wenn Schutzbedürfnis, Dauer, Raum und Entschädigung tatsächlich vergleichbar sind; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 13.12.2005 - KZR 12/04: Bei einer Standort- oder Wirtschaftlichkeitsberechnung sind selbständiger Beratungsvertrag, persönliche Dritthaftung und Garantieübernahme nach den konkreten.
-- BGH, Urteil vom 19.07.2011 - VI ZR 367/09: Im Franchise-Sachverhalt mit behaupteten falschen Businessplan-Daten präzisiert der BGH Beweislast und Vermögensschaden beim deliktischen Eingehungsbetrug.
+- BGH, Urteil vom 13.12.2005 - KZR 12/04: Persönliche Haftung eines Vertreters oder Vermittlers setzt besonderes persönliches Vertrauen voraus, etwa den Eindruck, er stehe persönlich für die ordnungsgemäße Vertragsdurchführung ein; ein nur mittelbares wirtschaftliches Interesse wie Provision oder Gewinnbeteiligung genügt regelmäßig nicht.
+- BGH, Urteil vom 19.07.2011 - VI ZR 367/09: Im Franchise-Sachverhalt mit behaupteten falschen Businessplan-Daten trägt der Anspruchsteller bei Paragraf 823 Abs. 2 BGB in Verbindung mit Paragraf 263 StGB die Darlegungs- und Beweislast für alle Tatbestandsmerkmale, auch für den Fortbestand des Irrtums bis zum Vertragsschluss.
 
 ## 7. Antwortform
 

@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37; HGB Paragraf 48 bis Paragraf 58 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
+| Tatbestand | Status nach Paragraf 84 HGB, Provision, Buchauszug, Kündigung, Ausgleich und Wettbewerbsverbot mit Fristen und Belegen getrennt prüfen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Email Chat Beweise | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kündigungsfristen 89 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO | Beweisthema, Gefahr des Beweisverlusts, zuständiges Gericht und Antrag nach Paragraf 485 ZPO bestimmen; Buchauszug nach Paragraf 87c Abs. 2 HGB als vorrangigen Informationsweg prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| E-Mail- und Chat-Beweise | Authentizität, Kontext, Screenshots, Export, Datenschutz, Geschäftsgeheimnisse und Anlagenlogik sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen | Wichtiger Grund, Abmahnungserfordernis, Kündigung binnen angemessener Überlegungsfrist ab Kenntnis (Paragraf 626 Abs. 2 BGB gilt nicht entsprechend), Zugang und Schadensersatz nach Paragraf 89a Abs. 2 HGB trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB | Status, Bezirk, Provisionssätze, Abrechnung, Kündigungsfristen, Ausgleich und Wettbewerbsverbot gegen die zwingenden Regeln der Paragrafen 84 bis 92c HGB prüfen und Verhandlungsspielraum markieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot | Schriftform und Urkundenaushändigung, Höchstdauer von zwei Jahren, Bezirk oder Kundenkreis, angemessene Entschädigung sowie Verzicht nach Paragraf 90a Abs. 2 HGB prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kündigungsfristen nach Paragraf 89 HGB | Vertragsdauer, gesetzliche Mindestfristen nach Paragraf 89 Abs. 1 HGB, Gleichlauf nach Paragraf 89 Abs. 2 HGB, Zugang, Form und Fristenkalender trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,14 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 15 und Paragraf 17 bis Paragraf 37: Registerpublizität und Firmenrecht.
 - HGB Paragraf 48 bis Paragraf 58: Prokura und Handlungsvollmacht.
 - HGB Paragraf 84 bis Paragraf 92c: Handelsvertreter, Provision, Buchauszug, Kündigung und Ausgleich.
-- HGB Paragrafen 84–92c ab; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 485–494a ZPO — Selbständiges Beweisverfahren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 ZPO — Freie Beweiswürdigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 371 ZPO — Augenscheinsbeweis bei Dateien und digitalen Daten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO, Email Chat Beweise, Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen, Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO, E-Mail- und Chat-Beweise, Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen, Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
 
 ## 8. Stop
 
